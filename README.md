@@ -1,8 +1,8 @@
 <details>
   <summary>README PTBR</summary>
 
-# Automação de Relatórios Matinais No WhatsApp
-
+# Automação de Relatórios Matinais No WhatsApp  
+  
 ## Desenvolvimento da API BOTZAP:
 
  - Requisitos
@@ -63,8 +63,8 @@
       - SmartBus (Sistema Web de Gestão e Venda de Passagens)
       - WhatsApp (Acesso realizado por WhatsApp Web)
 
-<details/>
-
+</details>
+  
 ---------
 
 <details>
@@ -132,4 +132,4 @@
       - SmartBus (Web Ticket Sales and Management System)
       - WhatsApp (Access with WhatsApp Web)
   
-  <details/>
+</details>
